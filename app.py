@@ -1,2 +1,2 @@
-print("Hello Git")
-print("Feature branch code")
+print("Hello from main branch")
+print("Hello from feature branch")
